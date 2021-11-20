@@ -1,0 +1,336 @@
+﻿  Ccar.cpp
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:  "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:             T=unsigned int
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(17,25): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:  "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:             T=unsigned int
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(18,22): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(27,29): warning C4244:  "-=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(27,29): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(27,29): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(27,29): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(27,29): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(33,16): warning C4305:  "+=": obcięcie z "double" do "T"
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(33,16): warning C4305:         with
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(33,16): warning C4305:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(33,16): warning C4305:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(33,16): warning C4305:         ]
+  Cmotorbike.cpp
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(36,16): warning C4305:  "-=": obcięcie z "double" do "T"
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(36,16): warning C4305:         with
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(36,16): warning C4305:         [
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(36,16): warning C4305:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Ccar.cpp(36,16): warning C4305:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:  "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:             T=unsigned int
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(17,25): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:  "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:             T=unsigned int
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(18,22): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(27,29): warning C4244:  "-=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(27,29): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(27,29): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(27,29): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(27,29): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(33,16): warning C4305:  "+=": obcięcie z "double" do "T"
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(33,16): warning C4305:         with
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(33,16): warning C4305:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(33,16): warning C4305:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(33,16): warning C4305:         ]
+  Cobject.cpp
+  Cobstacle.cpp
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(36,16): warning C4305:  "-=": obcięcie z "double" do "T"
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(36,16): warning C4305:         with
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(36,16): warning C4305:         [
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(36,16): warning C4305:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cmotorbike.cpp(36,16): warning C4305:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:  "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:             T=unsigned int
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(8,23): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:  "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:             T=unsigned int
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(9,23): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(33,16): warning C4244:  "=": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(33,16): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(33,16): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(33,16): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(33,16): warning C4244:         ]
+  Cseg.cpp
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(34,16): warning C4244:  "=": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(34,16): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(34,16): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(34,16): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cobstacle.cpp(34,16): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(35,15): warning C4244:  "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,109): warning C4244:  "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,74): warning C4244:  "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,39): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,39): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,39): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,39): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,39): warning C4244:         ]
+  Ctrack.cpp
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,26): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,26): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,26): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,26): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cseg.cpp(40,26): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Ctrack.cpp(16,42): warning C4244:  "=": konwersja z "double" do "float", możliwa utrata danych
+  CtrackGUI.cpp
+C:\Users\marek_000\Desktop\proj\proj\Ctrack.cpp(17,36): warning C4244:  "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,42): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,42): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,42): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,42): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,42): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,36): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,36): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,36): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,36): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(19,36): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,42): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,42): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,42): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,42): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,42): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,36): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,36): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,36): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,36): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(20,36): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,42): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,42): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,42): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,42): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,42): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,36): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,36): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,36): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,36): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(21,36): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,42): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,42): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,42): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,42): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,42): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,36): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,36): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,36): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,36): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(22,36): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,70): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,70): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,70): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,70): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,70): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,42): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,42): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,42): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,42): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(62,42): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,141): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,120): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,120): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,120): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,120): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,120): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,101): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,101): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,101): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,101): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,101): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,80): warning C4244:  "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,58): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,58): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,58): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,58): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,58): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,38): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,38): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,38): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,38): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(63,38): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,135): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,135): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,135): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,135): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,135): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,116): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,116): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,116): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,116): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,116): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,97): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,97): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,97): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,97): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,97): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,78): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,78): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,78): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,78): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,78): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,58): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,58): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,58): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,58): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,58): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,38): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,38): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,38): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,38): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(64,38): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,56): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,56): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,56): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,56): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,56): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,37): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,37): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,37): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,37): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(73,37): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(84,20): warning C4244:  "argument": konwersja z "int" do "float", możliwa utrata danych
+  CvehGUI.cpp
+C:\Users\marek_000\Desktop\proj\proj\CtrackGUI.cpp(84,17): warning C4244:  "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,80): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,80): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,80): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,80): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,80): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,45): warning C4244:  "argument": konwersja z "T" do "int", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,45): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,45): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,45): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(18,45): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,82): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,65): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(25,45): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,87): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,70): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(28,35): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,87): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,70): warning C4244:         ]
+  Cvehicle.cpp
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:  "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:         and
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:             T=int
+C:\Users\marek_000\Desktop\proj\proj\CvehGUI.cpp(32,35): warning C4244:         ]
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(10,16): warning C4244:  "=": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(10,16): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(10,16): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(10,16): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(10,16): warning C4244:         ]
+  main.cpp
+  Generowanie kodu...
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(11,16): warning C4244:  "=": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(11,16): warning C4244:         with
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(11,16): warning C4244:         [
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(11,16): warning C4244:             T=float
+C:\Users\marek_000\Desktop\proj\proj\Cvehicle.cpp(11,16): warning C4244:         ]
+  proj.vcxproj -> C:\Users\marek_000\Desktop\proj\Debug\proj.exe
